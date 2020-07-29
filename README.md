@@ -1,5 +1,7 @@
 # ShadowsocksR cross-platform client
 
+树莓派 raspberry pi raspberrypi
+
 [中文](./README-CN.md)
 
 `ShadowsocksR` is a cross-platform desktop client with support for Windows, macOS and Linux. It is feature-rich, supports most of the features of the Windows version and has more user-friendly features. It is open source, is based on open source projects and gives back to the open source community.
